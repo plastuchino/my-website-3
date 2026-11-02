@@ -1,0 +1,23 @@
+body {
+  font-family: Georgia, serif;
+  margin: 40px;
+  color: #111;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 8px;
+}
+
+button {
+  font-size: 18px;
+  padding: 6px 16px;
+  border: 2px solid #111;
+  border-radius: 8px;
+  background: white;
+  cursor: pointer;
+}
+
+h1 {
+  color: tomato;
+}
